@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mental Health Mobile Applcation](https://github.com/nasifayc/alen-backend)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS, Data structure and algorithm**
 
 - 👨‍💻 All of my projects are available at [https://nasifay.netlify.app/](https://nasifay.netlify.app/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nasifayc11@gmail.com**
 
-- ⚡ Fun fact **I love playing chess (suck at it), Ruy Lopez <3**
+- ⚡ Fun fact **I love playing chess (suck at it😑), Ruy Lopez <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
