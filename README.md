@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasifayc" alt="nasifayc" /></a> </p>
 
-- 🔭 I’m currently working on [Mental Health Mobile Applcation](https://github.com/nasifayc/alen-backend)
-
 - 🌱 I’m currently learning **NodeJS, Data structure and algorithm**
 
 - 👨‍💻 All of my projects are available at [https://nasifay.netlify.app/](https://nasifay.netlify.app/)
