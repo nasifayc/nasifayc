@@ -9,11 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nasifay.netlify.app/](https://nasifay.netlify.app/)
 
-- 💬 Ask me about **Flutter, NodeJS, Firebase, MongoDB**
-
 - 📫 How to reach me **nasifayc11@gmail.com**
-
-- ⚡ Fun fact **I love playing chess (suck at it😑), Ruy Lopez <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
