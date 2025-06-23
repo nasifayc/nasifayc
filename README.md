@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://nasifay-portfolio.vercel.app/](https://nasifay-portfolio.vercel.app/)
 
-- 💬 Ask me about **Dart and Typescript Eco Systems**
-
 - 📫 How to reach me **nasifayc11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
