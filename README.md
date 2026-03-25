@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nasifay</h1>
 <h3 align="center">I Build Robust Mobile and Web App Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasifayc&label=Profile%20views&color=0e75b6&style=flat" alt="nasifayc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasifayc" alt="nasifayc" /></a> </p>
 📫 How to reach me **nasifayc11@gmail.com**<br>👨‍💻 All of my projects are available at [https://nasifay-portfolio.vercel.app/](https://nasifay-portfolio.vercel.app/)
 
 
